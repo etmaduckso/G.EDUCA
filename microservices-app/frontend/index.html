@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Cadastro e Login</title>
+</head>
+<body>
+    <h1>Bem-vindo ao Sistema</h1>
+    <div>
+        <input type="text" id="username" placeholder="Usuário">
+        <input type="password" id="password" placeholder="Senha">
+        <button id="login-button">Entrar</button>
+        <button id="register-button">Cadastrar</button>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+        document.getElementById('register-button').addEventListener('click', () => {
+            window.location.href = 'register.html';
+        });
+
+        document.getElementById('login-button').addEventListener('click', async () => {
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+
+            // Chama a função de login do script.js
+            await login(username, password);
+
+        });
+    </script>
+</body>
+</html>
