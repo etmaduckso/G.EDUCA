@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/button_servicos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Serviços"
+        android:drawableLeft="@drawable/ic_servicos" />
+
+    <Button
+        android:id="@+id/button_produtos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Produtos"
+        android:drawableLeft="@drawable/ic_produtos" />
+
+</LinearLayout>

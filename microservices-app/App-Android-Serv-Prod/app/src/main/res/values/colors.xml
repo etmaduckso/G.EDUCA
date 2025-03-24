@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores principais (tons de verde) -->
+    <color name="green_primary">#2E7D32</color>      <!-- Verde escuro -->
+    <color name="green_secondary">#4CAF50</color>    <!-- Verde médio -->
+    <color name="green_light">#81C784</color>        <!-- Verde claro -->
+
+    <!-- Cores secundárias (amarelo pastel) -->
+    <color name="pastel_yellow_dark">#FDD835</color>
+    <color name="pastel_yellow">#FFF176</color>
+    <color name="pastel_yellow_light">#FFF59D</color>
+
+    <!-- Cores neutras -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_light">#F5F5F5</color>
+</resources>

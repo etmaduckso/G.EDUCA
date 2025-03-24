@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">AgroService - Inteligência no Campo!</string>
+    <string name="tmb_calculator">Agroservice - Conectando Produtores e Serviços</string>
+    <string name="weight_hint">Peso (kg)</string>
+    <string name="height_hint">Altura (cm)</string>
+    <string name="age_hint">Idade</string>
+    <string name="body_fat_hint">Percentual de Gordura Corporal (opcional)</string>
+    <string name="male">Masculino</string>
+    <string name="female">Feminino</string>
+    <string name="calculate_tmb">Calcular TMB</string>
+    <string name="mifflin_st_jeor">Fórmula de Mifflin-St Jeor</string>
+    <string name="katch_mcardle">Fórmula de Katch-McArdle</string>
+    <string name="result_mifflin">Sua TMB é: %.0f calorias/dia</string>
+    <string name="result_katch">Sua TMB é: %.0f calorias/dia</string>
+    <string name="error_input">Por favor, preencha todos os campos corretamente</string>
+    
+    <!-- Login/Register strings -->
+    <string name="welcome_message">Bem-vindo!</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="login">Entrar</string>
+    <string name="register">Cadastrar</string>
+    <string name="error_login">Erro ao fazer login</string>
+    <string name="error_register">Erro ao fazer cadastro</string>
+    <string name="reset">Reiniciar</string>
+    
+    <!-- Home strings -->
+    <string name="tmb_title">Facilidade no Campo!</string>
+    <string name="what_is_tmb">O que é o Agroservice?</string>
+    <string name="tmb_explanation">O que é o Agroservice?\n\nO Agroservice é um aplicativo inovador que conecta produtores rurais a uma ampla rede de profissionais qualificados, produtos e serviços essenciais para o agronegócio.\n Desenvolvido para atender às necessidades específicas do campo, o Agroservice simplifica a gestão da sua propriedade, otimizando seu tempo e recursos.\n </string>
+    <string name="why_important">Por que o Agroservice é para você?</string>
+    <string name="tmb_importance">No dia a dia do campo, você enfrenta desafios como:\n•Escassez de Mão de Obra Qualificada. Encontrar profissionais confiáveis e com a expertise necessária para as diversas atividades da sua propriedade pode ser uma tarefa difícil.\nO Agroservice facilita essa busca, reunindo em um só lugar mecânicos, eletricistas, agrônomos, veterinários, consultores e muitos outros profissionais qualificados e avaliados pela comunidade.\n•Dificuldade de Comunicação: A comunicação entre produtores e prestadores de serviços nem sempre é eficiente, o que pode gerar mal-entendidos, atrasos e até mesmo prejuízos.\n•O Agroservice oferece ferramentas de comunicação integradas, como chat e agendamento, que facilitam o contato e garantem um fluxo de trabalho mais organizado e transparente.\n•Falta de Acesso a Produtos e Serviços: A distância dos centros urbanos e a dificuldade de encontrar fornecedores confiáveis podem dificultar o acesso a produtos e serviços essenciais para a sua produção. \nO Agroservice reúne produtos e serviços, desde insumos agrícolas e peças de reposição até consultoria especializada, tudo ao seu alcance em poucos cliques.\nO Agroservice te ajuda economizando tempo e dinheiro.\nCom o app, você pode encontrar profissionais e produtos de forma rápida e eficiente, comparar preços, agendar serviços e acompanhar o andamento das atividades, tudo em um só lugar.</string>
+    <string name="how_helps">Como pode ajudar você?</string>
+    <string name="tmb_benefits">Otimizar seu tempo e recursos:\nSimplifique a gestão da sua propriedade e aumente sua produtividade.\n•Tomar decisões mais informadas.\n•Compare preços.\n•Analíse avaliações de serviços e produtos antes de comprar ou contratar.\nExperimente o Agroservice e descubra um novo jeito de fazer agronegócio!</string>
+    <string name="go_to_calculator">Buscar Produtos</string>
+    <string name="logout">Sair</string>
+    <string name="app_logo">Logo do aplicativo</string>
+</resources>
